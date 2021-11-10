@@ -1,0 +1,12 @@
+<?xml version=”1.0″ encoding=”UTF-8″ standalone=”yes”?>
+
+<question number = “1”>
+
+<title>Q1</title>
+
+<answer number = 1 >A</answer>
+<answer number = 2 >B</answer>
+<answer number = 3 >C</answer>
+<answer number = 4 >D</answer>
+
+</question>
